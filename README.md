@@ -16,6 +16,14 @@ I'm a part of a group called [research data services](https://data.library.virgi
     3. Help people with research projects
     4. Random other things as they come up
     
+## **Data Visualization**
+Data visualization is the act of taking information (data) and placing it into a visual context, such as a map or graph. Data 
+visualizations make data easier for the human brain to understand. You can more easily detect patterns, trends, and outliers 
+in groups of data. 
+
+Good data visualizations should give meaning to your data and clearly communicate what is happening in your analysis. Excel 
+has been a go-to data visualization tool for many years. Often, data visualization does not need to be fancy. As long as your 
+audience understands your work, it is effective data visualization.
 
 ## **Matplotlib**
 *Excerpt taken from [MatPlotLib's Website](https://matplotlib.org/):*
