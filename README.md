@@ -83,6 +83,11 @@ Reasons to use any given data visualization package/tool in python:
 3. You inherited code that is already using that package
 4. You found a code example you liked online for a specific package
 
+## **Pandas**
+*[Pandas Homepage](https://pandas.pydata.org/)*
+
+Pandas is an open source python library providing high-performance, easy-to-use data structures and data analysis tools.
+
 ## **Anaconda**
 *[Anaconda Homepage](https://www.anaconda.com/)*
 
