@@ -86,7 +86,8 @@ Reasons to use any given data visualization package/tool in python:
 ## **Pandas**
 *[Pandas Homepage](https://pandas.pydata.org/)*
 
-Pandas is an open source python library providing high-performance, easy-to-use data structures and data analysis tools.
+Pandas is an open source python library providing high-performance, easy-to-use data structures and data analysis tools. We 
+will be using pandas to work with our data before feeding it into matplotlib.
 
 ## **Anaconda**
 *[Anaconda Homepage](https://www.anaconda.com/)*
