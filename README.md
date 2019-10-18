@@ -118,6 +118,7 @@ of the first few search results
 Don't just ask questions right away. Odds are high that for widely used packages, like matplotlib, a question and answer 
 already exists. It is good practice to use that (and upvote it) if you like the answer. 
 
-If you do ask a question, make sure it is specific and reproducible. StackOverflow's purpose is to act as a reference, not 
-as a forum to debate open ended questions such as "what is better, matplotlib or ggplot?". Go on Reddit if you want to do 
-that. 
+If you do ask a question, make sure it is specific and reproducible. People will downvote you and moderators will close the 
+question if it is vague, incoherent, not-reproducible, or not clear in some other way. StackOverflow's purpose is to act as 
+a reference guide, not as a forum to debate open ended questions such as "what is better, matplotlib or ggplot?". Go on 
+Reddit if you want to do that. 
