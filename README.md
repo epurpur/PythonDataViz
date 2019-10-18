@@ -104,3 +104,4 @@ JupyterLab is the next generation user interface, which includes Jupyter Noteboo
 
 In my opinion, they seem pretty similar, though JupyterLab has a cleaner interface. We will be using JupyterLab today.
 
+## **Self Help - You don't need to remember all of this!**
