@@ -105,3 +105,19 @@ JupyterLab is the next generation user interface, which includes Jupyter Noteboo
 In my opinion, they seem pretty similar, though JupyterLab has a cleaner interface. We will be using JupyterLab today.
 
 ## **Self Help - You don't need to remember all of this!**
+
+Honestly, you don't need to remember any of it. Here are the resources I use when looking for answers:
+
+[Matplotlib Documentation](https://matplotlib.org/3.1.1/index.html)
+[Stack Overflow](https://stackoverflow.com/)
+Stack Overflow is a huge user community Q&A type site. Odds are very high that someone has asked your question before, just 
+google something like "how to make scatter plot matlplotlib python". I'm pretty certain a StackOverflow thread will be one 
+of the first few search results
+
+*Stack Overflow Etiquette*
+Don't just ask questions right away. Odds are high that for widely used packages, like matplotlib, a question and answer 
+already exists. It is good practice to use that (and upvote it) if you like the answer. 
+
+If you do ask a question, make sure it is specific and reproducible. StackOverflow's purpose is to act as a reference, not 
+as a forum to debate open ended questions such as "what is better, matplotlib or ggplot?". Go on Reddit if you want to do 
+that. 
