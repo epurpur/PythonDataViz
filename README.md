@@ -109,10 +109,10 @@ In my opinion, they seem pretty similar, though JupyterLab has a cleaner interfa
 Honestly, you don't need to remember any of it. Here are the resources I use when looking for answers:
 
 [Matplotlib Documentation](https://matplotlib.org/3.1.1/index.html)
-[Stack Overflow](https://stackoverflow.com/)
-Stack Overflow is a huge user community Q&A type site. Odds are very high that someone has asked your question before, just 
-google something like "how to make scatter plot matlplotlib python". I'm pretty certain a StackOverflow thread will be one 
-of the first few search results
+
+[Stack Overflow](https://stackoverflow.com/) is a huge user community Q&A type site. Odds are very high that someone has 
+asked your question before, just google something like "how to make scatter plot matlplotlib python". I'm pretty certain a 
+StackOverflow thread will be one of the first few search results
 
 *Stack Overflow Etiquette*
 Don't just ask questions right away. Odds are high that for widely used packages, like matplotlib, a question and answer 
