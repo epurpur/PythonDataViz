@@ -103,7 +103,7 @@ Jupyter Notebooks are a web-based interactive computational environment for crea
 several languages like python, R, Julia, etc.
 JupyterLab is the next generation user interface, which includes Jupyter Notebooks. 
 
-In my opinion, they seem pretty similar, though JupyterLab has a cleaner interface. We will be using JupyterLab today.
+In my opinion, they seem almost exactly the same. We will be using Jupyter Notebooks today.
 
 ## **Self Help - You don't need to remember all of this!**
 
