@@ -14,7 +14,8 @@ I'm a part of a group called [research data services](https://data.library.virgi
     1. Serve as Liaison to various engineering departments
     2. Teach workshops and classes (like this one)
     3. Help people with research projects
-    4. Random other things as they come up
+    4. Internal Library Projects
+    5. Random other things as they come up
     
 ## **Data Visualization**
 Data visualization is the act of taking information (data) and placing it into a visual context, such as a map or graph. Data 
