@@ -1,4 +1,4 @@
-# Python Data Visualization using Matplotlib
+# Python Data Analysis and Visualization using Pandas + Matplotlib
 
 ## **About Me**
 
@@ -11,13 +11,17 @@ Erich Purpur
 
 I'm a part of a group called [research data services](https://data.library.virginia.edu/) and I do these things:
     
-    1. Serve as Liaison to various engineering departments
+    1. Serve as Liaison to various engineering and social sciences departments
     2. Teach workshops and classes (like this one)
     3. Help people with research projects
     4. Internal Library Projects
     5. Random other things as they come up
     
-## **Data Visualization**
+## **Background**
+I can't think of a research project, class assignment, or other kind of analysis that doesn't involve data. Can you? 
+
+In this workshop today we will be walking through the steps of using python to read a dataset and manipulate it. This involves working it into the shape and size we like before looking at it in a meaningful way. (ie: visualizing the data)
+
 Data visualization is the act of taking information (data) and placing it into a visual context, such as a map or graph. Data 
 visualizations make data easier for the human brain to understand. You can more easily detect patterns, trends, and outliers 
 in groups of data. 
@@ -25,6 +29,12 @@ in groups of data.
 Good data visualizations should give meaning to your data and clearly communicate what is happening in your analysis. Excel 
 has been a go-to data visualization tool for many years. Often, data visualization does not need to be fancy. As long as your 
 audience understands your work, it is effective data visualization.
+
+## **Pandas**
+*[Pandas Homepage](https://pandas.pydata.org/)*
+
+Pandas is an open source python library providing high-performance, easy-to-use data structures and data analysis tools. We 
+will be using pandas to work with our data before feeding it into matplotlib.
 
 ## **Matplotlib**
 *Excerpt taken from [MatPlotLib's Website](https://matplotlib.org/):*
@@ -84,11 +94,6 @@ Reasons to use any given data visualization package/tool in python:
 3. You inherited code that is already using that package
 4. You found a code example you liked online for a specific package
 
-## **Pandas**
-*[Pandas Homepage](https://pandas.pydata.org/)*
-
-Pandas is an open source python library providing high-performance, easy-to-use data structures and data analysis tools. We 
-will be using pandas to work with our data before feeding it into matplotlib.
 
 ## **Anaconda**
 *[Anaconda Homepage](https://www.anaconda.com/)*
