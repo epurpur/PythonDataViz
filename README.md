@@ -19,7 +19,7 @@ I'm a part of a group called [research data services](https://data.library.virgi
     5. Random other things as they come up
     
 ## **Background**
-I can't think of a research project, class assignment, or other kind of analysis that doesn't involve data. Can you? 
+I can't think of a research project, class assignment, or other kind of analysis that doesn't involve data.  Can you? 
 
 In this workshop today we will be walking through the steps of using python to read a dataset and manipulate it. This involves working it into the shape and size we like before looking at it in a meaningful way. (ie: visualizing the data)
 
