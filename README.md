@@ -20,7 +20,7 @@ I'm a part of a group called [research data services](https://data.library.virgi
     
 ## **Upcoming Workshops**
 
-Available here: https://data.library.virginia.edu/training/#py
+More Information Available here: https://data.library.virginia.edu/training/#py
 
   - Version control with Git and Github  |  9/21  |  10:00 - 11:30am
   - Python and APIs                      |  9/22  |  10:00 - 12:00pm
