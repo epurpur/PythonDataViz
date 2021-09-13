@@ -18,6 +18,15 @@ I'm a part of a group called [research data services](https://data.library.virgi
     4. Internal Library Projects
     5. Random other things as they come up
     
+## **Upcoming Workshops**
+
+Available here: https://data.library.virginia.edu/training/#py
+
+  - Version control with Git and Github  |  9/21  |  10:00 - 11:30am
+  - Python and APIs                      |  9/22  |  10:00 - 12:00pm
+  - Python Web Scraping                  |  9/29  |  10:00 - 12:00pm
+    
+    
 ## **Background**
 I can't think of a research project, class assignment, or other kind of analysis that doesn't involve data.  Can you? 
 
