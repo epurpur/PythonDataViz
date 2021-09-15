@@ -1,6 +1,7 @@
 # Python Data Analysis and Visualization using Pandas + Matplotlib
 
 
+
 ## **About Me**
 
 Erich Purpur
