@@ -1,3 +1,7 @@
+
+### Note to Self - next time update and use Mito? : https://trymito.io/
+
+
 # Python Data Analysis and Visualization using Pandas + Matplotlib
 
 
