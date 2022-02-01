@@ -1,7 +1,4 @@
 
-# Note to Self - next time update and use Mito? : https://trymito.io/
-
-
 # Python Data Analysis and Visualization using Pandas + Matplotlib
 
 
@@ -27,13 +24,13 @@ I'm a part of a group called [research data services](https://data.library.virgi
 
 More Information Available here: https://data.library.virginia.edu/training/#py
 
-* Intro to Python                                     Wednesday 1/26,  11:00 - 12:30
-* Data Analysis in Python with Matplotlib and Pandas  Wednesday 2/2,   11:00 - 12:30
-* No Python workshop this week!                       Wednesday 2/9
-* Python and APIs                                     Wednesday 2/16,  11:00 - 12:30
-* Python Web Scraping                                 Wednesday 2/23,  11:00 - 12:30
-* Version Control with Git/Github                     Tuesday   3/1,   10:00 - 11:30
-* Introduction to Regular Expressions                 Wednesday 3/2,   11:00 - 12:30                                    Wednesday 2/16, 11:00 - 12:30am Brown 133
+* Intro to Python                     |                Wednesday 1/26,  11:00 - 12:30
+* Data Analysis in Python with Matplotlib and Pandas | Wednesday 2/2,   11:00 - 12:30
+* No Python workshop this week!                |       Wednesday 2/9
+* Python and APIs                               |      Wednesday 2/16,  11:00 - 12:30
+* Python Web Scraping                            |     Wednesday 2/23,  11:00 - 12:30
+* Version Control with Git/Github                 |    Tuesday   3/1,   10:00 - 11:30
+* Introduction to Regular Expressions              |   Wednesday 3/2,   11:00 - 12:30                                    
     
     
 ## **Background**
@@ -128,6 +125,10 @@ several languages like python, R, Julia, etc.
 JupyterLab is the next generation user interface, which includes Jupyter Notebooks. 
 
 In my opinion, they seem almost exactly the same. We will be using Jupyter Notebooks today.
+
+# Mito: trymito.io
+
+View tabular data in a Microsoft excel-like interface. Explore your data by graphing, viewing, summary stats, and creating pivot tables. 
 
 ## **Self Help - You don't need to remember all of this!**
 
