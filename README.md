@@ -77,7 +77,7 @@ Matplotlib currently has a large, active developer base, and is now widely used 
 But, it is not the only data visualization tool available!
 
 ## **ggplot for python**
-[ggplot Homepage](http://ggplot.yhathq.com/)
+[ggplot Homepage](https://pypi.org/project/ggplot/)
 
 The ggplot python library evolved out of the ggplot2 R-specific package. It seems to be accepted that ggplot2 (in R) is a 
 more sophisticated graphics tool and provides more high end functionality. It is not clear to me if ggplot for python 
@@ -126,7 +126,9 @@ JupyterLab is the next generation user interface, which includes Jupyter Noteboo
 
 In my opinion, they seem almost exactly the same. We will be using Jupyter Notebooks today.
 
-# Mito: trymito.io
+# Mito:
+
+[Mito Homepage](https://www.trymito.io/)
 
 View tabular data in a Microsoft excel-like interface. Explore your data by graphing, viewing, summary stats, and creating pivot tables. 
 
