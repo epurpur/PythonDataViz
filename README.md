@@ -36,7 +36,7 @@ More Information Available here: https://data.library.virginia.edu/training/#py
 ## **Background**
 I can't think of a research project, class assignment, or other kind of analysis that doesn't involve data.  Can you? 
 
-In this workshop today we will be walking through the steps of using python to read a dataset and manipulate it. This involves working it into the shape and size we like before looking at it in a meaningful way. (ie: visualizing the data)
+In this workshop today we will be walking through the steps of using python to read a dataset and manipulate it. This involves working it into the shape and size we like (aka data wrangling) before looking at it in a meaningful way. (ie: visualizing the data)
 
 Data visualization is the act of taking information (data) and placing it into a visual context, such as a map or graph. Data 
 visualizations make data easier for the human brain to understand. You can more easily detect patterns, trends, and outliers 
