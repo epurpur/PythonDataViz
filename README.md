@@ -22,7 +22,7 @@ I'm a part of a group called [research data services](https://data.library.virgi
     
 ## **Upcoming Workshops**
 
-More Information Available here: https://data.library.virginia.edu/training/#py
+[More Info available here](https://data.library.virginia.edu/training/#Python)
 
 ## Other Upcoming Workshops
 
