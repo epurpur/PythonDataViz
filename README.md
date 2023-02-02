@@ -24,13 +24,16 @@ I'm a part of a group called [research data services](https://data.library.virgi
 
 More Information Available here: https://data.library.virginia.edu/training/#py
 
-* Data Analysis in Python with Matplotlib and Pandas | Tuesday 9/13,   10:00 - 11:30am
-* Introduction to Regular Expressions  |               Tuesday 9/13, 1:00 - 2:30pm
-* Python and APIs                               |      Tuesday 2/20,  10:00 - 11:30am
-* Geospatial Data & Mapping in Python           |      Tuesday 2/27,  10:00 - 11:30am
-* Version Control with Git/Github                 |    Tuesday 2/27,  1:00 - 2:30pm
-* Python Web Scraping                       |          Tuesday 10/4,  10:00 - 11:30am
-* Python File Input/Output                         |   Tuesday 10/11, 10:00 - 11:30am                                    
+## Other Upcoming Workshops
+
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
+| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  12:00 - 11:30
+| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
+| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
+| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
+| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30                                   
     
     
 ## **Background**
