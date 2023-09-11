@@ -22,24 +22,23 @@ I'm a part of a group called [research data services](https://data.library.virgi
     3. Help people with research projects
     4. Internal Library Projects
     5. Random other things as they come up
-    
-## **Upcoming Workshops**
 
-[More Info available here](https://data.library.virginia.edu/training/#Python)
-
-## Other Upcoming Workshops
+## Upcoming Workshops
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
 | Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
 | Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
 | Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
-| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
+| Python Data Analysis + Visualization                                |       Tuesday 9/12  |  12:00 - 1:30pm
 | Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
 | Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
 | Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
 | Python Web Dashboards w/ Streamlit                                  |       Tuesday 10/10  |  12:00 - 1:30pm
- 
+
+# Other Upcoming Workshops
+
+See the rest of [UVA Library's workshop series](https://library.virginia.edu/data/training)
     
 ## **Background**
 I can't think of a research project, class assignment, or other kind of analysis that doesn't involve data.  Can you? 
