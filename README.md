@@ -5,7 +5,7 @@
 # Python Data Analysis and Visualization using Pandas + Matplotlib
 
 ## Link to Recording of this workshop
-- [Click Here](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a62ab204-a073-40f0-b1d4-b0f20139f7fd)
+- [Click Here](https://youtu.be/dRcS4U_gqMU)
 
 
 ## **About Me**
