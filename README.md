@@ -15,7 +15,7 @@ Erich Purpur
 
     Research Librarian for Science & Engineering
     epurpur@virginia.edu
-    Brown Science & Engineering Library room I046
+    Brown Science & Engineering Library room I054
 
 
 I'm a part of a group called [research data services](https://data.library.virginia.edu/) and I do these things:
@@ -26,16 +26,20 @@ I'm a part of a group called [research data services](https://data.library.virgi
     4. Internal Library Projects
     5. Random other things as they come up
 
-## Other Upcoming Workshops
-
+## Upcoming Python Workshops
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Python pt 1                                                |       Wednesday 9/4   |  10:00 - 11:30am
-| Intro to Python pt 2                                                |       Wednesday 9/11  |  10:00 - 11:30am
-| Intro to Version Control w/ Git + Github                            |       Wednesday 9/11  |  1:00 - 2:30pm
-| Python Data Analysis + Visualization                                |       Wednesday 9/18  |  10:00 - 11:30am
-| Local Large Language Models                                         |       Wednesday 9/25  |  10:00 - 11:30am
-| Python Web Scraping                                                 |       Wednesday 10/2  |  10:00 - 11:30am
+| Intro to Python pt 1                                                |       Tuesday 9/2   |  11:00 - 12:30am
+| Intro to Python pt 2                                                |       Tuesday 9/9   |  11:00 - 12:30am
+| Python Data Analysis & Visualization                                |       Tuesday 9/16  |  11:00 - 12:30am
+| AI Prompt Engineering for Python                                    |       Thursday 9/18 |  1:00 - 2:30pm
+
+## Upcoming AI Workshops
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Using Large Language Models Locally                                 |       Thursday 9/4   |  1:00 - 2:30pm
+| AI Prompt Engineering w/ CLEAR Framework                            |       Thursday 9/11  |  1:00 - 2:30pm
+| AI Prompt Engineering for Python                                    |       Thursday 9/18  |  1:00 - 2:30pm                                   |       Wednesday 10/2  |  10:00 - 11:30am
 
 
 # Other Upcoming Workshops
